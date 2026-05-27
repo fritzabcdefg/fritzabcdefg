@@ -6,79 +6,34 @@
     width='400px' height='50px'>
 
     
-                <path id='path0'>
-                            <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d4.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#FF1493' font-size='24'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
-        letter-spacing='normal' style='opacity:0'>
-        <animate attributeName='opacity' begin='d0.begin+0.05s' dur='0.01s' to='1' fill='freeze' />
-        <textPath xlink:href='#path0'>
-            Scanning you...
-        </textPath>
-    </text>
-        <path id='path1'>
-                            <!-- Single line -->
-                                <animate id='d1' attributeName='d' begin='d0.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#FF1493' font-size='24'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
-        letter-spacing='normal' style='opacity:0'>
-        <animate attributeName='opacity' begin='d1.begin+0.05s' dur='0.01s' to='1' fill='freeze' />
-        <textPath xlink:href='#path1'>
-            Scan complete
-        </textPath>
-    </text>
-        <path id='path2'>
-                            <!-- Single line -->
-                                <animate id='d2' attributeName='d' begin='d1.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#FF1493' font-size='24'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
-        letter-spacing='normal' style='opacity:0'>
-        <animate attributeName='opacity' begin='d2.begin+0.05s' dur='0.01s' to='1' fill='freeze' />
-        <textPath xlink:href='#path2'>
-            Hello, I am Fritzie
-        </textPath>
-    </text>
-        <path id='path3'>
-                            <!-- Single line -->
-                                <animate id='d3' attributeName='d' begin='d2.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#FF1493' font-size='24'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
-        letter-spacing='normal' style='opacity:0'>
-        <animate attributeName='opacity' begin='d3.begin+0.05s' dur='0.01s' to='1' fill='freeze' />
-        <textPath xlink:href='#path3'>
-            Your personal code companion
-        </textPath>
-    </text>
-        <path id='path4'>
-                            <!-- Single line -->
-                                <animate id='d4' attributeName='d' begin='d3.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#FF1493' font-size='24'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
-        letter-spacing='normal' style='opacity:0'>
-        <animate attributeName='opacity' begin='d4.begin+0.05s' dur='0.01s' to='1' fill='freeze' />
-        <textPath xlink:href='#path4'>
-            How may I help you?
-        </textPath>
-    </text>
+                <!-- Static centered text elements that fade in/out sequentially -->
+                <!-- Total loop duration: 16s (4s per phrase). Each <animate> uses the same dur and keyTimes
+                     so each phrase is visible for ~3.6s with 0.4s fades. repeatCount='indefinite' -->
+                <text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle'
+                    font-family='Poppins, sans-serif' font-size='24' fill='#FFC5D3' style='opacity:0'>
+                    Scanning you..
+                    <animate attributeName='opacity' dur='16s' repeatCount='indefinite'
+                        values='0;0;1;1;0;0' keyTimes='0;0;0.05;0.2;0.25;1' />
+                </text>
+
+                <text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle'
+                    font-family='Poppins, sans-serif' font-size='24' fill='#FFC5D3' style='opacity:0'>
+                    Scan Complete!
+                    <animate attributeName='opacity' dur='16s' repeatCount='indefinite'
+                        values='0;0;1;1;0;0' keyTimes='0;0.25;0.3;0.45;0.5;1' />
+                </text>
+
+                <text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle'
+                    font-family='Poppins, sans-serif' font-size='24' fill='#FFC5D3' style='opacity:0'>
+                    Hello, I am Fritzie!
+                    <animate attributeName='opacity' dur='16s' repeatCount='indefinite'
+                        values='0;0;1;1;0;0' keyTimes='0;0.5;0.55;0.7;0.75;1' />
+                </text>
+
+                <text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle'
+                    font-family='Poppins, sans-serif' font-size='24' fill='#FFC5D3' style='opacity:0'>
+                    Your personal code companion!
+                    <animate attributeName='opacity' dur='16s' repeatCount='indefinite'
+                        values='0;0;1;1;0;0' keyTimes='0;0.75;0.8;0.95;1;1' />
+                </text>
 </svg>

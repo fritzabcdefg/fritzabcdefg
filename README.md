@@ -4,7 +4,9 @@
 </div>
 
 <div align="center" style="margin-top:1rem;">
+
   ![Typing SVG](assets/typing.svg)
+  
 </div>
 
 ## GitHub Stats
