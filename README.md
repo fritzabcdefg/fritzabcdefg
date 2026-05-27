@@ -1,6 +1,9 @@
 
 <div align="center" style="margin-top:0.5rem;">
-  <img src="assets/baymax.gif" alt="Baymax banner" loading="eager" style="width:100%; max-width:900px; height:auto; object-fit:cover; border-radius:8px;"/>
+  <video src="assets/baymax.gif" autoplay muted loop playsinline style="width:120%; max-width:900px; height:auto; object-fit:cover; border-radius:8px;">
+    <!-- Fallback: GIF for viewers that don't support HTML5 video in README -->
+    <img src="assets/baymax.gif" alt="Baymax banner" loading="eager" style="width:100%; max-width:900px; height:auto; object-fit:cover; border-radius:8px;"/>
+  </video>
 </div>
 
 <div align="center" style="margin-top:1rem;">
@@ -9,14 +12,12 @@
   
 </div>
 
-## GitHub Stats
 <div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fritzabcdefg&theme=light&background=FFFFFF&stroke=FF1493&ring=FFC5D3&fire=FF93AD&currStreakNum=#FFD7E1)
 
 </div>
 
-## Tech Stack
 <div align="center">
 
 ### Programming Languages
@@ -42,9 +43,7 @@
 
 </div>
 
----
 
-## Featured Projects
 <div align="center">
 
 | Project | Description |
