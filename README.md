@@ -1,13 +1,16 @@
 <!-- Styled HTML version: open README.html in a browser for black background, pastel-pink text, and Poppins font. -->
 <!-- Note: GitHub strips custom fonts and page-level background styles; see README.html for the requested styling. -->
 
+<!-- Banner: place `assets/baymax.jpg` (1920x668) here to display a full-width header image -->
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF1493&lines=Scanning+you...;Scan+complete;Hello,+I+am+Fritzie;Your+personal+code+companion;How+may+I+help+you?&background=00000000)](https://git.io/typing-svg)
-
+  <img src="assets/baymax.jpg" alt="Baymax banner" style="width:100%;max-width:1920px;height:668px;object-fit:cover;display:block;margin:0 auto;" />
 </div>
 
-## 📊 GitHub Stats
+<div align="center" style="margin-top:1rem;">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF1493&lines=Scanning+you...;Scan+complete;Hello,+I+am+Fritzie;Your+personal+code+companion;How+may+I+help+you?&background=00000000)](https://git.io/typing-svg)
+</div>
+
+## GitHub Stats
 <div align="center">
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fritzabcdefg&show_icons=true&theme=tokyonight&title_color=FF1493&text_color=ffffff&bg_color=1a1a1a&icon_color=FF1493)
@@ -20,7 +23,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 <div align="center">
 
 ### Programming Languages
@@ -48,21 +51,20 @@
 
 ---
 
-## 🔗 Featured Projects
+## Featured Projects
 <div align="center">
 
 | Project | Description |
 |---------|-------------|
-| 🌍 [Multimedia and Authoring website](https://github.com/fritzabcdefg/MMA-Portfolio) | Modular planetary models & Rotoscope Animation |
-| 🛍️ [Everpeak Camp Co. Shop](https://github.com/fritzabcdefg/everpeakcamp_co) | Modern e-commerce web development |
-| 💻 [Operating Systems Page](https://github.com/fritzabcdefg/fritzabcdefg.github.io) | Tutorial on Installationss of Operating Systems |
+| [Multimedia and Authoring website](https://github.com/fritzabcdefg/MMA-Portfolio) | Modular planetary models & Rotoscope Animation |
+| [Everpeak Camp Co. Shop](https://github.com/fritzabcdefg/everpeakcamp_co) | Modern e-commerce web development |
+| [Operating Systems Page](https://github.com/fritzabcdefg/fritzabcdefg.github.io) | Tutorial on Installationss of Operating Systems |
 
 </div>
----
 
 <div align="center">
 
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fritzabcdefg.fritzabcdefg&left_color=FF1493&right_color=000000)
-</div>
 
-<p> "Spoiled but not rotten" - Charlotte La Bouff </p>
+  <p> "Spoiled but not rotten" - Charlotte La Bouff </p>
+</div>
