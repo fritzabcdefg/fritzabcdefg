@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img src="assets/baymax.jpg" alt="Baymax banner" style="width:100%;"/>
+  <img src="assets/baymax.gif" alt="Baymax banner" style="width:100%;"/>
 </div>
 
 <div align="center" style="margin-top:1rem;">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF1493&lines=Scanning+you...;Scan+complete!;Hello,+I+am+Fritzie;Your+personal+code+companion;How+may+I+help+you?&background=00000000)](https://git.io/typing-svg)
+  ![Typing SVG](assets/typing.svg)
 </div>
 
 ## GitHub Stats
@@ -13,7 +13,6 @@
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fritzabcdefg&theme=light&background=FFFFFF&stroke=FF1493&ring=FFC5D3&fire=FF93AD&currStreakNum=#FFD7E1)
 
 </div>
----
 
 ## Tech Stack
 <div align="center">
