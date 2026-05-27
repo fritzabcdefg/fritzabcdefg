@@ -3,7 +3,7 @@
 
 <!-- Banner: place `assets/baymax.jpg` (1920x668) here to display a full-width header image -->
 <div align="center">
-  <img src="assets/baymax.jpg" alt="Baymax banner" style="width:100%;max-width:1920px;height:668px;object-fit:cover;display:block;margin:0 auto;" />
+  <img src="assets/baymax.jpg" alt="Baymax banner" style="width:100%;"/>
 </div>
 
 <div align="center" style="margin-top:1rem;">
