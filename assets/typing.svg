@@ -15,7 +15,8 @@
     <text font-family='"monospace", monospace' fill='#FF1493' font-size='24'
         dominant-baseline='auto'
         x='0%' text-anchor='start'
-        letter-spacing='normal'>
+        letter-spacing='normal' style='opacity:0'>
+        <animate attributeName='opacity' begin='d0.begin+0.05s' dur='0.01s' to='1' fill='freeze' />
         <textPath xlink:href='#path0'>
             Scanning you...
         </textPath>
@@ -29,7 +30,8 @@
     <text font-family='"monospace", monospace' fill='#FF1493' font-size='24'
         dominant-baseline='auto'
         x='0%' text-anchor='start'
-        letter-spacing='normal'>
+        letter-spacing='normal' style='opacity:0'>
+        <animate attributeName='opacity' begin='d1.begin+0.05s' dur='0.01s' to='1' fill='freeze' />
         <textPath xlink:href='#path1'>
             Scan complete
         </textPath>
@@ -43,7 +45,8 @@
     <text font-family='"monospace", monospace' fill='#FF1493' font-size='24'
         dominant-baseline='auto'
         x='0%' text-anchor='start'
-        letter-spacing='normal'>
+        letter-spacing='normal' style='opacity:0'>
+        <animate attributeName='opacity' begin='d2.begin+0.05s' dur='0.01s' to='1' fill='freeze' />
         <textPath xlink:href='#path2'>
             Hello, I am Fritzie
         </textPath>
@@ -57,7 +60,8 @@
     <text font-family='"monospace", monospace' fill='#FF1493' font-size='24'
         dominant-baseline='auto'
         x='0%' text-anchor='start'
-        letter-spacing='normal'>
+        letter-spacing='normal' style='opacity:0'>
+        <animate attributeName='opacity' begin='d3.begin+0.05s' dur='0.01s' to='1' fill='freeze' />
         <textPath xlink:href='#path3'>
             Your personal code companion
         </textPath>
@@ -71,7 +75,8 @@
     <text font-family='"monospace", monospace' fill='#FF1493' font-size='24'
         dominant-baseline='auto'
         x='0%' text-anchor='start'
-        letter-spacing='normal'>
+        letter-spacing='normal' style='opacity:0'>
+        <animate attributeName='opacity' begin='d4.begin+0.05s' dur='0.01s' to='1' fill='freeze' />
         <textPath xlink:href='#path4'>
             How may I help you?
         </textPath>
