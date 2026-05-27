@@ -10,49 +10,49 @@
                 <!-- Total loop duration: 21s (7 phrases, ~3s each). fade offsets use a small margin so
                      each phrase fully fades out before the next fades in. repeatCount='indefinite' -->
                 <text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle'
-                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='18' fill='#FF93AD' style='opacity:0'>
+                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='16' font-weight='600' fill='#FF93AD' style='opacity:0'>
                     Hello, I am Fritzie!
                     <animate attributeName='opacity' dur='21s' repeatCount='indefinite'
                         values='0;0;1;1;0;0' keyTimes='0;0;0.010000;0.132857;0.142857;1' />
                 </text>
 
                 <text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle'
-                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='18' fill='#FF93AD' style='opacity:0'>
+                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='16' font-weight='600' fill='#FF93AD' style='opacity:0'>
                     Your personal code companion!
                     <animate attributeName='opacity' dur='21s' repeatCount='indefinite'
                         values='0;0;1;1;0;0' keyTimes='0;0.142857;0.152857;0.275714;0.285714;1' />
                 </text>
 
                 <text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle'
-                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='18' fill='#FF93AD' style='opacity:0'>
+                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='16' font-weight='600' fill='#FF93AD' style='opacity:0'>
                     I was notified when you clicked my profile!
                     <animate attributeName='opacity' dur='21s' repeatCount='indefinite'
                         values='0;0;1;1;0;0' keyTimes='0;0.285714;0.295714;0.418571;0.428571;1' />
                 </text>
 
                 <text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle'
-                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='18' fill='#FF93AD' style='opacity:0'>
+                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='16' font-weight='600' fill='#FF93AD' style='opacity:0'>
                     Scanning...
                     <animate attributeName='opacity' dur='21s' repeatCount='indefinite'
                         values='0;0;1;1;0;0' keyTimes='0;0.428571;0.438571;0.561428;0.571428;1' />
                 </text>
 
                 <text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle'
-                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='18' fill='#FF93AD' style='opacity:0'>
+                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='16' font-weight='600' fill='#FF93AD' style='opacity:0'>
                     Scan complete!
                     <animate attributeName='opacity' dur='21s' repeatCount='indefinite'
                         values='0;0;1;1;0;0' keyTimes='0;0.571428;0.581428;0.704285;0.714285;1' />
                 </text>
 
                 <text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle'
-                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='18' fill='#FF93AD' style='opacity:0'>
+                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='16' font-weight='600' fill='#FF93AD' style='opacity:0'>
                     You seem curious...
                     <animate attributeName='opacity' dur='21s' repeatCount='indefinite'
                         values='0;0;1;1;0;0' keyTimes='0;0.714285;0.724285;0.847142;0.857142;1' />
                 </text>
 
                 <text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle'
-                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='18' fill='#FF93AD' style='opacity:0'>
+                    font-family='system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' font-size='16' font-weight='600' fill='#FF93AD' style='opacity:0'>
                     You're in need of my assistance!
                     <animate attributeName='opacity' dur='21s' repeatCount='indefinite'
                         values='0;0;1;1;0;0' keyTimes='0;0.857142;0.867142;0.990000;1.000000;1' />
