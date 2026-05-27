@@ -1,26 +1,18 @@
-<!-- Styled HTML version: open README.html in a browser for black background, pastel-pink text, and Poppins font. -->
-<!-- Note: GitHub strips custom fonts and page-level background styles; see README.html for the requested styling. -->
 
-<!-- Banner: place `assets/baymax.jpg` (1920x668) here to display a full-width header image -->
 <div align="center">
   <img src="assets/baymax.jpg" alt="Baymax banner" style="width:100%;"/>
 </div>
 
 <div align="center" style="margin-top:1rem;">
-  [![Typing SVG](assets/typing.svg)](assets/typing.svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF1493&lines=Scanning+you...;Scan+complete!;Hello,+I+am+Fritzie;Your+personal+code+companion;How+may+I+help+you?&background=00000000)](https://git.io/typing-svg)
 </div>
 
 ## GitHub Stats
 <div align="center">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fritzabcdefg&show_icons=true&theme=tokyonight&title_color=FF1493&text_color=ffffff&bg_color=1a1a1a&icon_color=FF1493)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fritzabcdefg&layout=compact&theme=tokyonight&text_color=FF1493)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fritzabcdefg&theme=dark&background=1a1a1a&stroke=FF1493&ring=FF1493&fire=FF1493&currStreakNum=FF1493)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fritzabcdefg&theme=light&background=FFFFFF&stroke=FF1493&ring=FFC5D3&fire=FF93AD&currStreakNum=#FFD7E1)
 
 </div>
-
 ---
 
 ## Tech Stack
