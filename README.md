@@ -1,7 +1,6 @@
 
 <div align="center" style="margin-top:0.5rem;">
-  <video src="assets/baymax.mp4" autoplay muted loop playsinline style="width:100%; max-width:900px; height:auto; object-fit:cover; border-radius:8px;">
-  </video>
+    <img src="assets/baymax.gif" alt="Baymax banner" loading="eager" style="width:100%; max-width:900px; height:auto; object-fit:cover; border-radius:8px;"/>
 </div>
 
 <div align="center" style="margin-top:1rem;">
